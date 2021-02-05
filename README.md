@@ -3,6 +3,10 @@ Scrapes proxies from proxyscrape.com but in node.js
 ---
 
 created & coded by @kazion#1337
+---
+## Setup:
+- `npm i request` , `npm i fs`
+- if using on repl.it or glitch, make a `package.json` and install there
 
 ---
 
