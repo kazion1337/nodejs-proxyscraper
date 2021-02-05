@@ -5,9 +5,7 @@ Scrapes proxies from proxyscrape.com but in node.js
 created & coded by @kazion#1337
 ---
 ## Setup:
-- `npm i request` , `npm i fs`
-- if using on repl.it or glitch, make a `package.json` and install there
-
+- Put yout account token in `config.json`
 ---
 
 - [Click Here](https://repl.it/github/kazion1337/nodejs-proxyscraper) to run it in repl.it
